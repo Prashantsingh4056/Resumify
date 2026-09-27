@@ -265,9 +265,9 @@ Resumify/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/resumify.git
+git clone https://github.com/Prashantsingh4056/Resumify.git
 
-cd resumify
+cd Resumify
 ```
 
 ---
